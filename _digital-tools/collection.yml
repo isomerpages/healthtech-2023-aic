@@ -2,7 +2,7 @@ collections:
   digital-tools:
     output: true
     order:
-      - OGP Tools/ForSG.md
+      - OGP Tools/ForSG (URL Shortener).md
       - OGP Tools/FormSG (Form Builder).md
       - OGP Tools/.keep
       - Microsoft Teams/.keep
