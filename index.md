@@ -21,10 +21,8 @@ sections:
             url: http://transformationoffice.aic.sg/process
           - title: Upskilling
             url: http://transformationoffice.aic.sg/people
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - resources:
+      title: QUICKS TIPS AND TRICKS
+      subtitle: our bite sized content
+      button: Resources Button Name
 ---
