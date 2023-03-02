@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: AIC Transformation Office
-description: Agency for Integrated Care's Transformation Office Showcase Site,
-  built using Isomer
+description: Agency for Integrated Care (AIC) Transformation Office (TO)
+  Showcase site built using Isomer
 image: /images/isomer-logo.svg
 permalink: /
 notification: Welcome to AIC Transformation Showcase
@@ -27,5 +27,6 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
 
