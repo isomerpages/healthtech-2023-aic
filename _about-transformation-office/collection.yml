@@ -2,7 +2,7 @@ collections:
   about-transformation-office:
     output: true
     order:
-      - About the team/About the Team.md
+      - About the team/Puay Ling.md
       - About the team/.keep
       - About the Showcase.md
       - TO Strategic Focus.md
