@@ -2,6 +2,7 @@ collections:
   digital-tools:
     output: true
     order:
+      - Microsoft 365 Apps/Microsoft 365.md
       - Microsoft 365 Apps/.keep
       - Microsoft Teams/.keep
       - Microsoft Teams/On Teams and Channels.md
