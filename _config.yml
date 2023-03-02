@@ -15,8 +15,8 @@ colors:
       color: "#417505"
     - title: media-color-five
       color: "#ff0004"
-description: Agency for Integrated Care's Transformation Office Showcase Site,
-  built using Isomer
+description: Agency for Integrated Care (AIC) Transformation Office (TO)
+  Showcase site built using Isomer
 permalink: none
 baseurl: ""
 exclude:
