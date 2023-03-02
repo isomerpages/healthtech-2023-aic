@@ -2,7 +2,9 @@ logo: ""
 links:
   - title: More About Us
     collection: about-transformation-office
-  - title: Example Page
-    url: /example-page/
   - title: Contact Us
     url: /contact-us/
+  - title: Example Page
+    url: /example-page/
+  - title: Digital Tools
+    collection: digital-tools
