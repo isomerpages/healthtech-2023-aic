@@ -1,4 +1,4 @@
-title: AIC Transformation Showcase
+title: AIC Transformation Office
 url: https://www.transformationoffice.aic.sg
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,7 +15,8 @@ colors:
       color: "#417505"
     - title: media-color-five
       color: "#ff0004"
-description: An Isomer site of the Agency for Integrated Care Transformation Office
+description: Agency for Integrated Care's Transformation Office Showcase Site,
+  built using Isomer
 permalink: none
 baseurl: ""
 exclude:
