@@ -2,8 +2,8 @@ collections:
   digital-tools:
     output: true
     order:
-      - Microsoft Teams/On Meetings.md
-      - Microsoft Teams/On Chats.md
-      - Microsoft Teams/On Teams and Channels.md
       - Microsoft Teams/.keep
+      - Microsoft Teams/On Teams and Channels.md
+      - Microsoft Teams/On Chats.md
+      - Microsoft Teams/On Meetings.md
       - OGP Tools.md
