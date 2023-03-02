@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - About the Team.md
-      - folder-page.md
+      - Business Partners.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
