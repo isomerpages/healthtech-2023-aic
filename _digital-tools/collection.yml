@@ -2,6 +2,7 @@ collections:
   digital-tools:
     output: true
     order:
+      - Microsoft 365.md
       - OGP Tools/CheckFirst.md
       - OGP Tools/ForSG.md
       - OGP Tools/FormSG & sgID.md
