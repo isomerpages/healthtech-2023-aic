@@ -22,7 +22,7 @@ sections:
           - title: Upskilling
             url: http://transformationoffice.aic.sg/people
   - resources:
-      title: QUICKS TIPS AND TRICKS
-      subtitle: our bite sized content
-      button: Resources Button Name
+      title: TIPS AND TRICKS
+      subtitle: bite sized content
+      button: Our Resource Page
 ---
