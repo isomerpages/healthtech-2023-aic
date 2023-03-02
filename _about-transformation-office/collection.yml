@@ -1,5 +1,5 @@
 collections:
-  about-future-readiness-team:
+  about-transformation-office:
     output: true
     order:
       - folder-page.md
