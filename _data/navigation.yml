@@ -1,14 +1,12 @@
 logo: ""
 links:
-  - title: More About Us
+  - title: About the team
     collection: about-transformation-office
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Digital Tools
     collection: digital-tools
   - title: Process Improvement
     collection: process
   - title: Upskilling
     collection: about-transformation-office
+  - title: Contact Us
+    url: /contact-us/
