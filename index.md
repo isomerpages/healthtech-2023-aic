@@ -8,7 +8,7 @@ notification: Welcome to AIC Isomer Site!
 sections:
   - hero:
       title: AIC Isomer Site
-      subtitle: Hero subtitle
+      subtitle: Empowering Seniors and Clients and Transform the Care Community
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
