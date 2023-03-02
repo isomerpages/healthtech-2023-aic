@@ -2,8 +2,8 @@ collections:
   about-transformation-office:
     output: true
     order:
-      - Our Strategic Focus.md
       - About the Team.md
+      - Our Strategic Focus.md
       - Business Partners.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
