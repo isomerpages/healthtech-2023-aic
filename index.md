@@ -7,7 +7,7 @@ permalink: /
 notification: Welcome to AIC Transformation Showcase
 sections:
   - hero:
-      title: AIC Transformation
+      title: AIC Transformation Office
       subtitle: Your transformation journey starts here...
       background: /images/AIC Strategy Map.jpg
       dropdown:
