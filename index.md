@@ -9,7 +9,7 @@ sections:
   - hero:
       title: AIC Isomer Site
       subtitle: Empowering Seniors and Clients and Transform the Care Community
-      background: /images/hero-banner.png
+      background: /images/AIC Strategy Map.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
