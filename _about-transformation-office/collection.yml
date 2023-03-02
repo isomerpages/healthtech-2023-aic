@@ -2,6 +2,7 @@ collections:
   about-transformation-office:
     output: true
     order:
+      - About the Showcase.md
       - About the Team.md
       - Our Strategic Focus.md
       - Business Partners.md
