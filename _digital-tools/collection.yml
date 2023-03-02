@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - OGP Tools/CheckFirst.md
-      - OGP Tools/ForSG (URL Shortener).md
+      - OGP Tools/ForSG.md
       - OGP Tools/FormSG (Form Builder).md
       - OGP Tools/.keep
       - Microsoft Teams/.keep
