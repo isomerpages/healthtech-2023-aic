@@ -1,8 +1,8 @@
 logo: ""
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: More About Us
+    collection: about-transformation-office
   - title: Example Page
     url: /example-page/
-  - title: About Transformation Office
-    collection: about-transformation-office
+  - title: Contact Us
+    url: /contact-us/
