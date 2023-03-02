@@ -7,7 +7,7 @@ permalink: /
 notification: Welcome to AIC Isomer Site!
 sections:
   - hero:
-      title: Hero title
+      title: AIC Isomer Site
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
