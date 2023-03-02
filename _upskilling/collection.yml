@@ -1,4 +1,5 @@
 collections:
   upskilling:
     output: true
-    order: []
+    order:
+      - Citizen Developer Strategy.md
