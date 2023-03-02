@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: AIC Transformation Showcase
+description: An Isomer site of the Agency for Integrated Care Transformation Office
 image: /images/isomer-logo.svg
 permalink: /
 notification: Welcome to AIC Transformation Showcase
@@ -26,3 +26,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
