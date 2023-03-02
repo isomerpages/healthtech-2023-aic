@@ -13,10 +13,12 @@ sections:
       dropdown:
         title: What enabler do you need?
         options:
-          - title: Digital self help tools
+          - title: Digital self-help toolkit
             url: http://transformationoffice.aic.sg/digital
-          - title: Process improvement tools
+          - title: Process improvement
             url: http://transformationoffice.aic.sg/process
+          - title: Upskilling
+            url: http://transformationoffice.aic.sg/people
   - infobar:
       title: Infobar title
       subtitle: Subtitle
