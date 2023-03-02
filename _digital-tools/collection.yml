@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Microsoft 365 Apps/.keep
-      - Microsoft 365.md
       - Microsoft Teams/.keep
       - Microsoft Teams/On Teams and Channels.md
       - Microsoft Teams/On Chats.md
