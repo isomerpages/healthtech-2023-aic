@@ -2,6 +2,7 @@ collections:
   digital-tools:
     output: true
     order:
+      - OGP Tools/CheckFirst (Eligibility Checker).md
       - OGP Tools/ForSG (URL Shortener).md
       - OGP Tools/FormSG (Form Builder).md
       - OGP Tools/.keep
