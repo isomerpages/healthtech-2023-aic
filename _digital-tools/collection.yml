@@ -2,6 +2,6 @@ collections:
   digital-tools:
     output: true
     order:
-      - Microsoft Teams/Microsoft Teams.md
+      - Microsoft Teams/On Teams and Channels.md
       - Microsoft Teams/.keep
       - OGP Tools.md
