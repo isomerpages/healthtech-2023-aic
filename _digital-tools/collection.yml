@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Microsoft 365.md
-      - OGP Tools/CheckFirst.md
-      - OGP Tools/ForSG.md
-      - OGP Tools/FormSG & sgID.md
-      - OGP Tools/.keep
       - Microsoft Teams/.keep
       - Microsoft Teams/On Teams and Channels.md
       - Microsoft Teams/On Chats.md
       - Microsoft Teams/On Meetings.md
+      - OGP Tools/.keep
+      - OGP Tools/CheckFirst.md
+      - OGP Tools/ForSG.md
+      - OGP Tools/FormSG & sgID.md
