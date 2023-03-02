@@ -9,4 +9,4 @@ This website was birthed as an end product from Transformation Office's (TO) par
 
 ### What will this website be used for? 
 The Transformation Office (TO) will be using this website to upload content such as bite sized tips & quick tips that AIC staff can use to improve their productivity at work. 
-Guidelines and Policies will still remain housed within the Intranet, only accessible by AIC Staff. 
+Guidelines and Policies will still remain housed within the Intranet, only accessible by AIC Staff.
