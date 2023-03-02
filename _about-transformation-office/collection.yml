@@ -2,6 +2,7 @@ collections:
   about-transformation-office:
     output: true
     order:
+      - About the team/Jierong.md
       - About the team/Kalyn.md
       - About the team/Puay Ling.md
       - About the team/.keep
