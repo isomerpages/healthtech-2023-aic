@@ -4,24 +4,19 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to AIC Isomer Site!
+notification: Welcome to AIC Transformation Showcase
 sections:
   - hero:
-      title: AIC Isomer Site
-      subtitle: Empowering Seniors and Clients and Transform the Care Community
+      title: AIC Transformation
+      subtitle: Your transformation journey starts here...
       background: /images/AIC Strategy Map.jpg
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+      dropdown:
+        title: What enabler do you need?
+        options:
+          - title: Digital self help tools
+            url: http://transformationoffice.aic.sg/digital
+          - title: Process improvement tools
+            url: http://transformationoffice.aic.sg/process
   - infobar:
       title: Infobar title
       subtitle: Subtitle
