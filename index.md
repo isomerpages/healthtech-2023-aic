@@ -5,7 +5,8 @@ description: Agency for Integrated Care (AIC) Transformation Office (TO)
   Showcase site built using Isomer
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to AIC Transformation Showcase
+notification: Welcome to the Showcase Site for AIC's Transformation Office. Keep
+  your eyes peeled on this site for regular updates!
 sections:
   - hero:
       title: AIC Transformation Office
@@ -27,6 +28,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
-
