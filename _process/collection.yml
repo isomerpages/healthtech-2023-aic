@@ -2,4 +2,5 @@ collections:
   process:
     output: true
     order:
+      - Process Improvement Workshops.md
       - Quality Improvement Methodologies.md
