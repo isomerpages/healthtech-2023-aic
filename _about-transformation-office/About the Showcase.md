@@ -3,7 +3,7 @@ title: About the Showcase
 permalink: /about-transformation-office/toshowcase/
 description: ""
 ---
-### Why Was This Website Created? 
+### Why was this website created? 
 This website was birthed as an end product from Transformation Office's (TO) participation in the HealthTech Sprint 2023, that was conducted by the team from Open Government Product (OGP). Through a Product Accelerator Workshop during the Sprint event, TO and some divisional representatives got hands-on experience with using various OGP tools, including Isomer which was used to create this site.
 
 
