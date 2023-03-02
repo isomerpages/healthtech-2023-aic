@@ -4,7 +4,7 @@ collections:
     order:
       - OGP Tools/CheckFirst.md
       - OGP Tools/ForSG.md
-      - OGP Tools/FormSG (Form Builder).md
+      - OGP Tools/FormSG.md
       - OGP Tools/.keep
       - Microsoft Teams/.keep
       - Microsoft Teams/On Teams and Channels.md
