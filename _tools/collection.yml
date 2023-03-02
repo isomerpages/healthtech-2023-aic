@@ -1,4 +1,4 @@
 collections:
-  test-folder:
+  tools:
     output: true
     order: []
