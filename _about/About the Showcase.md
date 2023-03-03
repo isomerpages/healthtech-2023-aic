@@ -5,6 +5,8 @@ description: ""
 ---
 ### Why was this website created? 
 ![HealthTech Sprint 2](/images/OGP%20HealthTech%20Sprint2%20Photo2%20Feb-23.jpg)
+*Photo Source: OGP HealthTech Sprint 2*
+
 This website was birthed as an end product from Transformation Office's (TO) participation in the HealthTech Sprint 2023, that was conducted by the team from Open Government Product (OGP). Through a Product Accelerator Workshop during the Sprint event, TO and some divisional representatives got hands-on experience with using various OGP tools, including Isomer which was used to create this site.
 
 Related posts on Workplace: [Day 1](https://agencyforintegratedcarepteltd096.workplace.com/groups/175145659927169/permalink/1469743213800734/) l [Day 2](https://agencyforintegratedcarepteltd096.workplace.com/groups/175145659927169/permalink/1474429323332123/) l Day 3 l Day 4
