@@ -3,15 +3,15 @@ title: TO Business Partners
 permalink: /about-transformation-office/bizpartners/
 description: ""
 ---
-
-
 | Front Office | Middle Office | Corporate Office |
 | -------- | -------- | -------- |
-| RDD - Koh Puay Ling   | HAD - Wang Jierong     | GRLD - Wang Jierong   |
-| S&PD - Koh Puay Ling | CCMHD - Kalyn Choi | GPMD - Kalyn Choi |
-| SGD - Wang Jierong     | PCDD - Kalyn Choi     | ICMD - Koh Puay Ling     |
-| CIOD - Wang Jierong     | QPD - Wang Jierong     | Finance - Koh Puay Ling    |
-| CED - Wang Jierong     | MTD - Kalyn Choi     |   HR - Koh Puay Ling   |
-|  | GD - Kalyn Choi     |      |
-|  |  I2D2 - Koh Puay Ling   |     |
-|  |  SRDD - Wang Jierong   |     |
+| RDD - Puay Ling   | HAD - Jierong     | GRLD - Jierong   |
+| S&PD - Puay Ling | CCMHD - Kalyn | GPMD - Kalyn |
+| SGD - Jierong     | PCDD - Kalyn    | ICMD - Puay Ling     |
+| CIOD - Jierong     | QPD - Jierong     | FPD - Puay Ling    |
+| CED - Jierong     | MTD - Kalyn     |   HRD - Puay Ling   |
+|  | GD - Kalyn     |      |
+|  |  I2D2 - Puay Ling   |     |
+|  |  SRDD - Jierong   |     |
+
+Find out more about us or ping us on Teams.
