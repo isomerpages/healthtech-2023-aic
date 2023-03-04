@@ -5,18 +5,17 @@ description: Agency for Integrated Care (AIC) Transformation Office (TO)
   Showcase site built using Isomer
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to the Showcase Site for AIC's Transformation Office. Keep
-  your eyes peeled on this site for regular updates!
+notification: "[DEMO SITE - WORK IN PROGRESS. Aiming to launch by 1 April 2023] "
 sections:
   - hero:
-      title: AIC Transformation Office
+      title: Transformation Office
       subtitle: Future Readiness Department
       background: /images/AIC Strategy Map.jpg
       dropdown:
         title: "How might we enable you? "
         options:
-          - title: Upskilling
-            url: http://transformationoffice.aic.sg/people
+          - title: To understand this website
+            url: https://www.transformationoffice.aic.sg/about-transformation-office/toshowcase/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
