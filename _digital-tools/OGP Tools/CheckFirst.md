@@ -4,7 +4,7 @@ permalink: /digital-tools/OGP-Tools/CheckFirst/
 description: ""
 third_nav_title: OGP Tools
 ---
-# CheckFirst 
+## CheckFirst 
 ### About the tool 
 CheckFirst allows users to build eligibility checkers, calculators, and even quizzes. The user interface is similar to that of [FormSG](https://www.transformationoffice.aic.sg/digital-tools/ogp-tools/FormSGsgID/), using an drag and drop for easy formatting. 
 ### Use Cases
