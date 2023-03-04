@@ -10,15 +10,11 @@ notification: Welcome to the Showcase Site for AIC's Transformation Office. Keep
 sections:
   - hero:
       title: AIC Transformation Office
-      subtitle: Future Readiness
+      subtitle: Future Readiness Department
       background: /images/AIC Strategy Map.jpg
       dropdown:
-        title: "How can we enable you along? "
+        title: "How might we enable you? "
         options:
-          - title: Digital self-help toolkit
-            url: http://transformationoffice.aic.sg/digital
-          - title: Process improvement
-            url: http://transformationoffice.aic.sg/process
           - title: Upskilling
             url: http://transformationoffice.aic.sg/people
   - infopic:
