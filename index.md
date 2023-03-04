@@ -12,9 +12,9 @@ sections:
       subtitle: Future Readiness Department
       background: /images/AIC Strategy Map edited2.png
       dropdown:
-        title: "How might we enable you? "
+        title: "How Can We Enable You? "
         options:
-          - title: To understand this website
+          - title: To understand this Website
             url: https://www.transformationoffice.aic.sg/about-transformation-office/toshowcase/
           - title: To find my Business Partner
             url: https://www.transformationoffice.aic.sg/about-transformation-office/bizpartners/
