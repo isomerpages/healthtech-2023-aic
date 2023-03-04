@@ -23,11 +23,12 @@ sections:
           - title: To be guided on OGP Tool use
             url: https://www.transformationoffice.aic.sg/digital-tools/OGP-Tools/Guideline/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: Improve Your Productivity With OGP Tools
+      subtitle: SYSTEM
+      button: aic usage guidelines here
+      alt: OGPLogo
+      image: /images/OGPLogo.png
+      url: https://www.transformationoffice.aic.sg/digital-tools/OGP-Tools/Guideline/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
