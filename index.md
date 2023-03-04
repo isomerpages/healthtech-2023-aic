@@ -10,7 +10,7 @@ sections:
   - hero:
       title: Transformation Office
       subtitle: Future Readiness Department
-      background: /images/AIC Strategy Map.jpg
+      background: /images/AIC Strategy Map edited.png
       dropdown:
         title: "How might we enable you? "
         options:
