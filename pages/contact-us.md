@@ -16,5 +16,5 @@ contacts:
       - phone: ""
       - email: FRD@aic.sg
       - other: ""
-    title: General Enquiries & Feedback
+    title: FRD Shared Mailbox
 ---
