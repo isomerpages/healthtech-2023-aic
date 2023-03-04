@@ -20,6 +20,8 @@ sections:
             url: https://www.transformationoffice.aic.sg/about-transformation-office/bizpartners/
           - title: To understand Teams better
             url: https://www.transformationoffice.aic.sg/digital-tools/microsoft-teams/
+          - title: To be guided on OGP Tool use
+            url: https://www.transformationoffice.aic.sg/digital-tools/OGP-Tools/Guideline/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
