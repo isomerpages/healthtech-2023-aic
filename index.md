@@ -16,6 +16,10 @@ sections:
         options:
           - title: To understand this website
             url: https://www.transformationoffice.aic.sg/about-transformation-office/toshowcase/
+          - title: To find my Business Partner
+            url: https://www.transformationoffice.aic.sg/about-transformation-office/bizpartners/
+          - title: To understand Teams better
+            url: https://www.transformationoffice.aic.sg/digital-tools/microsoft-teams/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
