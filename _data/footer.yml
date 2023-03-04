@@ -1,9 +1,8 @@
-contact_us: /contact-us/
-show_reach: true
-faq: /faq/
+contact_us: frd@aic.sg
+show_reach: false
 social_media:
-  facebook: https://www.facebook.com/YourFBPage
-  twitter: https://www.twitter.com/YourTwitter
-  youtube: https://www.youtube.com/YourYoutube
-  instagram: https://www.instagram.com/your.insta/
-  linkedin: https://www.linkedin.com/company/YourAgency
+  facebook: https://www.facebook.com/AICSingapore
+  youtube: https://www.youtube.com/aicsingapore
+  instagram: https://www.instagram.com/aic_singapore/
+  linkedin: https://www.linkedin.com/company/agency-for-integrated-care-singapore/mycompany/verification/
+  tiktok: https://www.tiktok.com/@aicsingapore/
