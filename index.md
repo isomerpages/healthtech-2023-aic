@@ -30,7 +30,7 @@ sections:
       image: /images/OGPLogo.png
       url: https://www.transformationoffice.aic.sg/digital-tools/OGP-Tools/Guideline/
   - infopic:
-      title: Lost in Teams?
+      title: Feeling Lost?
       subtitle: SYSTEM
       button: Find some hacks here
       alt: MS Teams Logo
