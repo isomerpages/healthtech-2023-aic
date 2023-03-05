@@ -35,7 +35,7 @@ sections:
       button: Find some hacks here
       alt: MS Teams Logo
       image: /images/MS_Teams_logo_ws.png
-      url: https://www.transformationoffice.aic.sg/digital-tools/OGP-Tools/Guideline/
+      url: https://www.transformationoffice.aic.sg/digital-tools/microsoft-teams/teamschannel/
   - resources:
       title: TIPS AND TRICKS
       subtitle: bite sized content
