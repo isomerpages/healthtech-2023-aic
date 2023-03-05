@@ -4,8 +4,8 @@ permalink: /digital-tools/ogp-tools/FormSGsgID/
 description: ""
 third_nav_title: OGP Tools
 ---
-## FormSG witth sgID
-### About the tool 
+## sgID (Integrated with FormSG)
+ ### About the tool 
 Read this page only if you require your respondents to authenticate themselves using the Singpass app when accessing your forms. If your form may be accessed without authentication required, please read the page on [FormSG]( https://www.transformationoffice.aic.sg/digital-tools/ogp-tools/FormSG/) instead.
 
 In a layman explanation, sgID functions the same way as Singpass does, to ask for respondents to scan a QR code using their Singpass app before being able to access your form. sgID is a feature in FormSG, which you may choose to enable or not, and users will use the Singpass app as well to scan.
