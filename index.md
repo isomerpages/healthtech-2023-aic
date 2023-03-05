@@ -14,13 +14,13 @@ sections:
       dropdown:
         title: "How Can We Enable You? "
         options:
-          - title: To understand this Website
+          - title: Understand this Website
             url: https://www.transformationoffice.aic.sg/about-transformation-office/toshowcase/
-          - title: To find my Business Partner
+          - title: Find my FRD Business Partner
             url: https://www.transformationoffice.aic.sg/about-transformation-office/bizpartners/
-          - title: To understand Teams better
+          - title: Understand Teams better
             url: https://www.transformationoffice.aic.sg/digital-tools/microsoft-teams/
-          - title: To be guided on OGP Tool use
+          - title: Guidelines on Use of OGP Tool
             url: https://www.transformationoffice.aic.sg/digital-tools/OGP-Tools/Guideline/
   - infopic:
       title: Improve Your Productivity With OGP Tools
@@ -30,11 +30,12 @@ sections:
       image: /images/OGPLogo.png
       url: https://www.transformationoffice.aic.sg/digital-tools/OGP-Tools/Guideline/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: Lost in Teams?
+      subtitle: SYSTEM
+      button: Find some hacks here
+      alt: MS Teams Logo
+      image: /images/MS_Teams_logo_ws.png
+      url: https://www.transformationoffice.aic.sg/digital-tools/OGP-Tools/Guideline/
   - resources:
       title: TIPS AND TRICKS
       subtitle: bite sized content
