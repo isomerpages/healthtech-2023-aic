@@ -15,13 +15,14 @@ The OGP Tools (*we named it such in replacement of OGP Product Suite*)  that are
 As the push for adoption of OGP Tools within AIC is a planned and deliberate campaign, we request for all staff to input some details of your use cases through the form here (**hyperlink to form**). You may read more details in the [next page](https://www.transformationoffice.aic.sg/digital-tools/OGP-Tools/Guideline).
 
 
-| S/N | OGP Tools listed here  | (Tier \[^1\]- Brief Description |
+| S/N | OGP Tools   | (Tier \[^1\]- Brief Description |
 | ---- | -------- | -------- |
 |1| CalSG | Text |
 |2| CheckFirst | T2- Eligibility Checker |
 |3| ForSG | T1- Create trusted short links & QR Codes |
 |4| FormSG | T1- Easy to build form builder |
-|5| sgID | Text |
-|6| Isomer | Text |
+|5| sgID | T1&3-  Authentication & MyInfo extraction| 
+|6| Isomer | T3- Build websites like this|
+|7| Postman | T3- Mass send of emails & SMS |
 
 \[^1\] AIC's risk assessment with Tier 1 with the least restriction
