@@ -8,9 +8,7 @@ permalink: /
 notification: "[DEMO SITE - WORK IN PROGRESS. Aiming to launch by 1 April 2023] "
 sections:
   - hero:
-      title: Transformation Office
-      subtitle: Future Readiness Department
-      background: /images/AIC Strategy Map edited4.png
+      background: /images/AIC Strategy Map edited5.png
       dropdown:
         title: "How Can We Enable You? "
         options:
