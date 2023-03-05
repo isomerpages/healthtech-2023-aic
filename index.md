@@ -20,6 +20,8 @@ sections:
             url: https://www.transformationoffice.aic.sg/digital-tools/microsoft-teams/
           - title: Guidelines on Use of OGP Tool
             url: https://www.transformationoffice.aic.sg/digital-tools/OGP-Tools/Guideline/
+      title: Transformation Office
+      subtitle: Future Readiness Department
   - infopic:
       title: Improve Your Productivity With OGP Tools
       subtitle: SYSTEM
