@@ -28,7 +28,7 @@ sections:
       button: aic usage guidelines here
       alt: OGPLogo
       image: /images/OGPLogo.png
-      url: https://www.transformationoffice.aic.sg/digital-tools/OGP-Tools/Guideline/
+      url: /digital-tools/OGP-Tools/Guideline/
   - infopic:
       title: Feeling Lost?
       subtitle: SYSTEM
