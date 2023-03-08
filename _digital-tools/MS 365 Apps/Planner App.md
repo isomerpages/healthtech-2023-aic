@@ -9,7 +9,7 @@ third_nav_title: MS 365 Apps
 ### About Planner
 Planner can be used for team projects. Planner helps you and your team can to create plans, assign tasks, chat about tasks, and see charts of your team’s progress. 
 ### To-Do vs Planner
-| Microsoft To-Do |       | Microsoft Planner | 
+| Microsoft To-Do |   vs    | Microsoft Planner | 
 |------------------- |----|----------------- |
 | For solo projects | vs  | For team projects  | 
 | Make daily to-do lists | vs  | Manage and schedule teamwork visually  | 
