@@ -13,13 +13,13 @@ sections:
         title: "How Can We Enable You? "
         options:
           - title: Understand this Website
-            url: https://www.transformationoffice.aic.sg/about-transformation-office/toshowcase/
+            url: https://www.transformationoffice.aic.sg/about/showcase/
           - title: Find my FRD Business Partner
-            url: https://www.transformationoffice.aic.sg/about-transformation-office/bizpartners/
+            url: https://www.transformationoffice.aic.sg/about/bizpartners/
           - title: Understand Teams better
-            url: https://www.transformationoffice.aic.sg/digital-tools/microsoft-teams/
+            url: https://www.transformationoffice.aic.sg/digital-tools/msteams/teamschannel/
           - title: Guidelines on Use of OGP Tool
-            url: https://www.transformationoffice.aic.sg/digital-tools/OGP-Tools/Guideline/
+            url: https://www.transformationoffice.aic.sg/digital-tools/ogp/guidelines/
       title: Transformation Office
       subtitle: Future Readiness Department
   - infopic:
@@ -28,14 +28,14 @@ sections:
       button: aic usage guidelines here
       alt: OGPLogo
       image: /images/OGPLogo.png
-      url: https://www.transformationoffice.aic.sg/digital-tools/OGP-Tools/Guideline/
+      url: https://www.transformationoffice.aic.sg/digital-tools/ogp/guidelines/
   - infopic:
       title: Feeling Lost?
       subtitle: SYSTEM
       button: Find some hacks here
       alt: MS Teams Logo
       image: /images/MS_Teams_logo_ws.png
-      url: https://www.transformationoffice.aic.sg/digital-tools/microsoft-teams/teamschannel/
+      url: https://www.transformationoffice.aic.sg/digital-tools/msteams/teamschannel/
   - resources:
       title: TIPS AND TRICKS
       subtitle: bite sized content
