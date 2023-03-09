@@ -3,14 +3,13 @@ title: TO Business Partners
 permalink: /about/bizpartners/
 description: ""
 ---
-
 | Front Office | Middle Office | Corporate Office |
 | -------- | -------- | -------- |
-| RDD - Puay Ling   | HAD - Jierong     | GRLD - Jierong   |
+| CED - JierongRDD - Puay Ling   | HAD - Jierong     | GRLD - Jierong   |
 | S&PD - Puay Ling | CCMHD - Kalyn | GPMD - Kalyn |
 | SGD - Jierong     | PCDD - Kalyn    | ICMD - Puay Ling     |
 | CIOD - Jierong     | QPD - Jierong     | FPD - Puay Ling    |
-| CED - Jierong     | MTD - Kalyn     |   HRD - Puay Ling   |
+|      | MTD - Kalyn     |   HRD - Puay Ling   |
 |  | GD - Kalyn     |      |
 |  |  I2D2 - Puay Ling   |     |
 |  |  SRDD - Jierong   |     |
