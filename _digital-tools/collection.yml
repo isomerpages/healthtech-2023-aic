@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - MS 365 Apps/.keep
+      - MS Teams/To Do App.md
       - MS Teams/Planner App.md
       - MS Teams/.keep
       - MS Teams/On Teams and Channels.md
