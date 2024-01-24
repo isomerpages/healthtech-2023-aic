@@ -1,0 +1,12 @@
+logo: /images/TO Logo Horizontal Zoomed.png
+links:
+  - title: About
+    collection: about
+  - title: Digital Tools
+    collection: digital-tools
+  - title: Process Improvement
+    collection: process
+  - title: Upskilling
+    collection: upskilling
+  - title: Contact Us
+    url: /contact-us/

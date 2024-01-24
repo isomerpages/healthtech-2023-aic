@@ -1,0 +1,11 @@
+collections:
+  about:
+    output: true
+    order:
+      - About the Team/.keep
+      - About the Team/Puay Ling.md
+      - About the Team/Kalyn.md
+      - About the Team/Jierong.md
+      - About the Showcase.md
+      - TO Strategic Focus.md
+      - TO Business Partners.md

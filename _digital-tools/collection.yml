@@ -1,0 +1,19 @@
+collections:
+  digital-tools:
+    output: true
+    order:
+      - MS Teams/To Do App.md
+      - MS Teams/Planner App.md
+      - MS Teams/.keep
+      - MS Teams/On Teams and Channels.md
+      - MS Teams/On Chats.md
+      - MS Teams/On Meetings.md
+      - OGP Tools/.keep
+      - OGP Tools/About OGP Tools.md
+      - OGP Tools/Guidelines for use in AIC.md
+      - OGP Tools/CalSG.md
+      - OGP Tools/CheckFirst.md
+      - OGP Tools/ForSG.md
+      - OGP Tools/FormSG.md
+      - OGP Tools/FormSG with sgID.md
+      - OGP Tools/Isomer.md
